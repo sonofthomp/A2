@@ -1,0 +1,9 @@
+# add and delete several nodes
+a 2777
+r 2777
+a 5386
+a 2362
+r 2362
+a 1337
+p
+g
